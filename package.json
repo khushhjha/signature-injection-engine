@@ -1,0 +1,20 @@
+{
+  "name": "signature-injection-engine",
+  "version": "1.0.0",
+  "description": "Prototype system for precise signature placement on PDFs across different screen sizes",
+  "scripts": {
+    "install-all": "cd frontend && npm install && cd ../backend && npm install",
+    "start": "concurrently \"cd backend && npm start\" \"cd frontend && npm start\"",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/signature-injection-engine.git"
+  },
+  "keywords": ["pdf", "signature", "coordinates", "responsive", "react", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT"
+}
