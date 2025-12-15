@@ -6,7 +6,7 @@ A prototype system that bridges the gap between web browsers (CSS pixels, top-le
 
 **Frontend**: https://signature-injection-engine-tyx1.vercel.app
 
-**Backend API**: [https://signature-injection-backend.onrender.com](https://signature-injection-backend.onrender.com)
+**Backend API**: https://signature-injection-backend.onrender.com
 
 **Database**: MongoDB Atlas
 
